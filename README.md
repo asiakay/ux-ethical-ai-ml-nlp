@@ -1,4 +1,5 @@
-# ux-ethical-ai-ml-nlp
+# [ux-ethical-ai-ml-nlp](https://chat.openai.com/c/afabfdb9-5495-4013-9ed3-5598ee7e1d67)
+
 
 UX Research
 User Experience (UX) and Ethical AI Thought Leadership, Production, and Data Deployment
